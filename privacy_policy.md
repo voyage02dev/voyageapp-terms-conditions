@@ -1,7 +1,7 @@
 # Privacy Policy — Voyage
 
 **Last updated:** 31 October 2025
-**Contact:** [project02.com@gmail.com](mailto:project02.com@gmail.com)
+**Contact:** [project02.com@gmail.com](mailto:info@voyageapp.pro)
 
 ## 1) Who we are
 
@@ -84,7 +84,7 @@ We use administrative, technical, and organizational measures to protect data (e
 * **CCPA/CPRA (California):** know, delete, correct, opt-out of “sale”/“sharing,” and non-discrimination. We don’t “sell” personal information as defined by the law.
 * **Nepal:** privacy in electronic data, use only for stated purposes and with consent. 
 
-To exercise rights, email **[project02.com@gmail.com](mailto:project02.com@gmail.com)**. We may verify your request to protect your account.
+To exercise rights, email **[project02.com@gmail.com](mailto:info@voyageapp.pro)**. We may verify your request to protect your account.
 
 ## 12) Data about IELTS & interview practice
 
@@ -98,4 +98,4 @@ We will update this policy when we add features or when laws change. Where requi
 
 ## 14) Contact
 
-Questions or requests: **[project02.com@gmail.com](mailto:project02.com@gmail.com)**
+Questions or requests: **[project02.com@gmail.com](mailto:info@voyageapp.pro)**
