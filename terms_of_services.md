@@ -1,7 +1,7 @@
 # **Terms of Service — Voyage**
 
 **Effective Date:** 31 October 2025
-**Contact:** [project02.com@gmail.com](mailto:project02.com@gmail.com)
+**Contact:** [info@voyageapp.pro](mailto:info@voyageapp.pro)
 
 ---
 
@@ -132,5 +132,5 @@ We’ll notify you in-app or via email when significant updates occur. Continued
 ## 17. Contact
 
 For any questions, feedback, or legal concerns, reach us at:
-**Email:** [project02.com@gmail.com](mailto:project02.com@gmail.com)
+**Email:** [info@voyageapp.pro](mailto:info@voyageapp.pro)
 **Developer:** Project 02 Team
